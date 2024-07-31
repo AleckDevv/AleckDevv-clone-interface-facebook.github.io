@@ -30,6 +30,8 @@ Esta interface foi projetada para replicar a aparência do Facebook, incluindo c
 1. Clone este repositório:
    ```sh
    git clone https://github.com/aaleckdev/facebook-clone.git
+2. Copie o link do projeto no ar:
+    https://aleckdevv.github.io/AleckDevv-clone-interface-facebook.github.io/
 
 ## Navegue até o diretório do projeto:
     ```sh
